@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """ <b> ʜᴇʟʟᴏ {} , ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ʟᴀᴅ ʙᴏᴛ ᴡʜᴏ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ᴄᴏɴᴠᴇʀᴛ ғɪʟᴇs ᴛᴏ ᴠɪᴅᴇᴏ</b> \n
+    START_TEXT = """ <b> ʜᴇʟʟᴏ[✅](https://telegra.ph/file/b7c700727c15352f62ff7.jpg) {} , ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ʟᴀᴅ ʙᴏᴛ ᴡʜᴏ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ᴄᴏɴᴠᴇʀᴛ ғɪʟᴇs ᴛᴏ ᴠɪᴅᴇᴏ</b> 
 
-<b>ʙᴏᴛ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: @TEAM_LAD</b> \n 
+
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"

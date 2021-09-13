@@ -102,11 +102,11 @@ async def start_me(bot, update):
                         InlineKeyboardButton("ʜᴇʟᴘ", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/team_lad'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/teamladz_bothub')
                 ],
                 [
-                    InlineKeyboardButton('ᴅᴇᴠ, url='https://t.me/Mai_bOTs/17')
+                    InlineKeyboardButton('ᴅᴇᴠ', url='https://t.me/alavalaathy')
                 ]
             ]
         ),

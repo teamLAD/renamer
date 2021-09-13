@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ <b> ʜᴇʟʟᴏ[✅](https://telegra.ph/file/b7c700727c15352f62ff7.jpg) {} , ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ʟᴀᴅ ʙᴏᴛ ᴡʜᴏ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ᴄᴏɴᴠᴇʀᴛ ғɪʟᴇs ᴛᴏ ᴠɪᴅᴇᴏ</b> 
+    START_TEXT = """ <b>ʜᴇʟʟᴏ[✅](https://telegra.ph/file/b7c700727c15352f62ff7.jpg) {} , ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ʟᴀᴅ ʙᴏᴛ ᴡʜᴏ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ᴄᴏɴᴠᴇʀᴛ ғɪʟᴇs ᴛᴏ ᴠɪᴅᴇᴏ</b> 
 
 
 """
